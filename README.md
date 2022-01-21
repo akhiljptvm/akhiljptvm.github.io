@@ -9,9 +9,9 @@ I am a frontend engineer with an experience of over 2 years. I have hands on exp
 <p align='left'>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png" alt="html" width="40" height="40">
   <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png' alt="css" width="40" height="40">
-  <img src='https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png' height='30' width='auto' alt="js">
+  <img src='https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png' height='32' width='auto' alt="js">
    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" alt="react" width="35" height="32"/>
-   <img src="https://brandslogos.com/wp-content/uploads/images/large/angular-icon-logo.png" alt="angular" width="38" height="35"/>
+   <img src="https://cdn.freebiesupply.com/logos/thumbs/2x/angular-icon-1-logo.png" alt="angular" width="45" height="35"/>
 </p>
 
 ---
