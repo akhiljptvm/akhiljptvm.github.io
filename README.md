@@ -19,7 +19,7 @@ I am a frontend engineer with an experience of over 2 years. I have hands on exp
 ## PROJECTS
 
 
-### **FRONTEND DEVELOPER**
+### **1.ICT ACADEMY OFFICIAL WEBSITE**
 ### ictacademyofficial.herokuapp.com
 
 The main objective of this system is to design or develop a software portal for ICTAK for maintaining course details, user information, company memberships, and collaboration systems
