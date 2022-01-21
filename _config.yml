@@ -11,7 +11,7 @@
 #   <a href="https://www.gihub.com/akhiljptvm">Gihub</a> 
 
 title: AKHIL JP # your name (or website title) here
-logo: "/1595314802757.jpeg?raw=true" # your photo (or logo) here
+logo: "/mypictransparent.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
  Full Stack Developr(MEAN)
   <br><br>
@@ -19,5 +19,5 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br>
   <a href="https://www.linkedin.com/in/akhiljptvm/">LinkedIn Profile</a>
   <br>
-  <a href="https://www.gihub.com/akhiljptvm/">Gihub</a> 
+  <a href="https://www.gihub.com/akhiljptvm/">Github</a> 
 theme: jekyll-theme-minimal
