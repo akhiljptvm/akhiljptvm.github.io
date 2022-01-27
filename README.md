@@ -21,8 +21,8 @@ I am a Full Stack Developer with an experience of over 1 years. I have hands on 
 ## PROJECTS
 
 
-### **1. ICT ACADEMY OF KERALA OFFICIAL WEBSITE**
-### ➡️<a href="http://ictacademyofficial.herokuapp.com/" target="_blank">HOSTED LINK</a>
+ **1. ICT ACADEMY OF KERALA OFFICIAL WEBSITE**
+ ➡️<a href="http://ictacademyofficial.herokuapp.com/" target="_blank">HOSTED LINK</a>
 
 The main objective of this system is to design or develop a software portal for ICTAK for maintaining course details, user information, company memberships, and collaboration systems
 <ul>
@@ -36,8 +36,8 @@ notifications to users.</li>
 <li> Super admin have privilege to Add,Update and Delete and many more</li>
   </ul>
   
- ### **2. Library App – MEAN Project**
- ### ➡️<a href="https://librarymean-app.herokuapp.com/" target="_blank">HOSTED LINK</a>
+  **2. Library App – MEAN Project**
+  ➡️<a href="https://librarymean-app.herokuapp.com/" target="_blank">HOSTED LINK</a>
  
  <ul>
  <li>Library App containing Books and Authors pages , single book and single author</li>
@@ -45,8 +45,8 @@ notifications to users.</li>
  <li>Authentication and Role Based Authorization / Access Control implimented</li>
 </ul>
 
- ### **3. KeralaTourism – Html,Css,Javascript project**
- ### ➡️<a href="https://akhiljptvm.github.io/keralaTourism/" target="_blank">HOSTED LINK</a>
+ **3. KeralaTourism – Html,Css,Javascript project**
+  ➡️<a href="https://akhiljptvm.github.io/keralaTourism/" target="_blank">HOSTED LINK</a>
  
  <ul>
  <li> Website provides major tourism places in all the 14 districts of kerala</li>
