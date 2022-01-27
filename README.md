@@ -7,11 +7,13 @@ I am a Full Stack Developer with an experience of over 1 years. I have hands on 
 ## Skills
 
 <p align='left'>
+  <img src="https://e7.pngegg.com/pngimages/465/779/png-clipart-blue-and-white-c-logo-the-c-programming-language-computer-programming-computer-icons-programmer-blue-angle.png" alt="html" width="40" height="40">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png" alt="html" width="40" height="40">
   <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png' alt="css" width="40" height="40">
   <img src='https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png' height='32' width='auto' alt="js">
    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" alt="react" width="35" height="32"/>
    <img src="https://cdn.freebiesupply.com/logos/thumbs/2x/angular-icon-1-logo.png" alt="angular" width="45" height="35"/>
+  
 </p>
 
 ---
@@ -20,7 +22,7 @@ I am a Full Stack Developer with an experience of over 1 years. I have hands on 
 
 
 ### **1.ICT ACADEMY OF KERALA OFFICIAL WEBSITE**
-### ➡️<a href="ictacademyofficial.herokuapp.com">HOSTED LINK</a>
+### ➡️<a href="http://ictacademyofficial.herokuapp.com/">HOSTED LINK</a>
 
 The main objective of this system is to design or develop a software portal for ICTAK for maintaining course details, user information, company memberships, and collaboration systems
 <ul>
