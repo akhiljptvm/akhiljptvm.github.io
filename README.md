@@ -57,12 +57,22 @@ notifications to users.</li>
 
 ## Education
 
-### **KERALA UNIVERSITY**
 ### (BCA Bachelor of Computer Application)
+### **KERALA UNIVERSITY**
+National College-Ambalathara
+
+###  Plus Two(Kerala State)
+### **KERALA STATE BOARD**
+St Xaviers Higher Secondary school,peyad
+
+### SSLC
+### **KERALA STATE BOARD**
+St Xaviers Higher Secondary school,peyad
+
 
 ---
 
-### INTERESTS
+### Workshops and courses attended
 Apart from being a web developer, I do content creation. I make videos related to frontend and general tech.
 
 I enjoy being outdoors, so i go for run everyday. I love travelling to different countries and explore different cultures. When i am inside , i play guitar and sing in my free time.
