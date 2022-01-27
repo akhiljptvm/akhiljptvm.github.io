@@ -23,14 +23,16 @@ I am a Full Stack Developer with an experience of over 1 years. I have hands on 
 ### ictacademyofficial.herokuapp.com
 
 The main objective of this system is to design or develop a software portal for ICTAK for maintaining course details, user information, company memberships, and collaboration systems
-➢ Software portal for ICTAK for maintaining course details, user information, 
-company memberships and collaboration systems
-➢ Users can use this system from anywhere to find out about the details of the courses 
-provided and register for the same.
-➢ system allows ICTAK faculty to share relevant Course details, as well as to send email 
-notifications to users.
-➢ It consists of a super admin login along with admin login.
-➢ Super admin have privilege to Add,Update and Delete and many more
+<ul>
+➢<li> Software portal for ICTAK for maintaining course details, user information, 
+company memberships and collaboration systems</li>
+➢<li> Users can use this system from anywhere to find out about the details of the courses 
+provided and register for the same.</li>
+➢<li> system allows ICTAK faculty to share relevant Course details, as well as to send email 
+notifications to users.</li>
+➢<li> It consists of a super admin login along with admin login.</li>
+➢<li> Super admin have privilege to Add,Update and Delete and many more</li>
+  </ul>
 ---
 
 ## Education
