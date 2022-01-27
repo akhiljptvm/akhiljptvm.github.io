@@ -21,8 +21,8 @@ I am a Full Stack Developer with an experience of over 1 years. I have hands on 
 ## PROJECTS
 
 
- **1. ICT ACADEMY OF KERALA OFFICIAL WEBSITE**
- ➡️<a href="http://ictacademyofficial.herokuapp.com/" target="_blank">HOSTED LINK</a>
+### **1. ICT ACADEMY OF KERALA OFFICIAL WEBSITE**
+### ➡️<a href="http://ictacademyofficial.herokuapp.com/" target="_blank">HOSTED LINK</a>
 
 The main objective of this system is to design or develop a software portal for ICTAK for maintaining course details, user information, company memberships, and collaboration systems
 <ul>
@@ -36,7 +36,7 @@ notifications to users.</li>
 <li> Super admin have privilege to Add,Update and Delete and many more</li>
   </ul>
   
-  **2. Library App – MEAN Project**
+  **2. Library App – MEAN Project** <br>
   ➡️<a href="https://librarymean-app.herokuapp.com/" target="_blank">HOSTED LINK</a>
  
  <ul>
@@ -45,7 +45,7 @@ notifications to users.</li>
  <li>Authentication and Role Based Authorization / Access Control implimented</li>
 </ul>
 
- **3. KeralaTourism – Html,Css,Javascript project**
+ **3. KeralaTourism – Html,Css,Javascript project** <br>
   ➡️<a href="https://akhiljptvm.github.io/keralaTourism/" target="_blank">HOSTED LINK</a>
  
  <ul>
