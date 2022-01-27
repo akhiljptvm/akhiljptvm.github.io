@@ -73,6 +73,13 @@ St Xaviers Higher Secondary school,peyad
 ---
 
 ### Workshops and courses attended
-Apart from being a web developer, I do content creation. I make videos related to frontend and general tech.
-
-I enjoy being outdoors, so i go for run everyday. I love travelling to different countries and explore different cultures. When i am inside , i play guitar and sing in my free time.
+<ul>
+ <li>2021 Completed Full Stack development(MEAN) in ICTAK academy of 
+     kerala.</li>
+ <li>2021 Completed Certified ( Nodejs,MongoDB,Express) Course From Udemy</li>
+ <li>2021 Fundamentals of Digital Marketing From Google Digital Garage</li>
+ <li>2020 Foundations of User Experience (UX) Design</li>
+ <li>2020 Completed Certified UI/UX (HTML,CSS,JAVASCRIPT,PHOTOSHOP,ADOBE 
+     XD, FIGMA) from Udemy.</li> 
+ <li>2019 Completed Certified Adobe Photoshop Advanced level course from Udemy</li>
+</ul>
