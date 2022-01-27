@@ -1,6 +1,6 @@
 ## Portfolio
 
-I am a frontend engineer with an experience of over 2 years. I have hands on experienceworking with web frameworks and technologies. I have extensively worked on Angular and typescript for 1 years.
+I am a frontend engineer with an experience of over 1 years. I have hands on experienceworking with web frameworks and technologies. I have extensively worked on HTML,CSS and Javascript for 1 years.
 
 ---
 
