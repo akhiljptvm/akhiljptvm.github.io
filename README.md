@@ -57,7 +57,7 @@ notifications to users.</li>
 
 ## Education
 
-### 1. (BCA Bachelor of Computer Application)
+### 1. BCA (Bachelor of Computer Application)
 ### **KERALA UNIVERSITY**
 National College-Ambalathara
 
