@@ -19,19 +19,19 @@ I am a Full Stack Developer with an experience of over 1 years. I have hands on 
 ## PROJECTS
 
 
-### **1.ICT ACADEMY OFFICIAL WEBSITE**
-### ictacademyofficial.herokuapp.com
+### **1.ICT ACADEMY OF KERALA OFFICIAL WEBSITE**
+### HOSTED LINK ➡️<a href="ictacademyofficial.herokuapp.com"></a>
 
 The main objective of this system is to design or develop a software portal for ICTAK for maintaining course details, user information, company memberships, and collaboration systems
 <ul>
-➢<li> Software portal for ICTAK for maintaining course details, user information, 
+<li> Software portal for ICTAK for maintaining course details, user information, 
 company memberships and collaboration systems</li>
-➢<li> Users can use this system from anywhere to find out about the details of the courses 
+<li> Users can use this system from anywhere to find out about the details of the courses 
 provided and register for the same.</li>
-➢<li> system allows ICTAK faculty to share relevant Course details, as well as to send email 
+<li> system allows ICTAK faculty to share relevant Course details, as well as to send email 
 notifications to users.</li>
-➢<li> It consists of a super admin login along with admin login.</li>
-➢<li> Super admin have privilege to Add,Update and Delete and many more</li>
+<li> It consists of a super admin login along with admin login.</li>
+<li> Super admin have privilege to Add,Update and Delete and many more</li>
   </ul>
 ---
 
