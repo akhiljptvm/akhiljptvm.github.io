@@ -20,7 +20,7 @@ I am a Full Stack Developer with an experience of over 1 years. I have hands on 
 
 
 ### **1.ICT ACADEMY OF KERALA OFFICIAL WEBSITE**
-### HOSTED LINK ➡️<a href="ictacademyofficial.herokuapp.com"></a>
+### ➡️<a href="ictacademyofficial.herokuapp.com">HOSTED LINK</a>
 
 The main objective of this system is to design or develop a software portal for ICTAK for maintaining course details, user information, company memberships, and collaboration systems
 <ul>
