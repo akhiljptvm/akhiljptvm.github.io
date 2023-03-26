@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm AKHIL JP</h1>
+<div style = background-color: "red"; >
+<h1 align="center">Hi 👋, I'M AKHIL JP</h1>
 <h3 align="center">A passionate frontend developer from India. I’m a MERN/MEAN Stack Developer and building tech to elevate people🧑‍💻 | Angular | Node js | Mongo DB | Express js</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akhiljptvm&label=Profile%20views&color=0e75b6&style=flat" alt="akhiljptvm" /> </p>
@@ -29,4 +30,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akhiljptvm&show_icons=true&locale=en" alt="akhiljptvm" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akhiljptvm&" alt="akhiljptvm" /></p>
+  </div>
 
